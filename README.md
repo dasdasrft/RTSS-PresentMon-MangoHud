@@ -1,7 +1,7 @@
 # RTSS-PresentMon-MangoHud
 
 <p align="center">
-  <img src="assets/preview.jpg" alt="RTSS MangoHud Preview" width="420">
+  <img src="assets/preview.png" alt="RTSS MangoHud Preview" width="420">
 </p>
 
 A refined, eye-friendly, low-saturation MangoHud-style overlay layout for **RivaTuner Statistics Server (RTSS)** featuring **Intel PresentMon 2.0** telemetry.
