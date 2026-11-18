@@ -611,7 +611,7 @@ TextColor=7C6E8C
 
 [Layer22]
 Name=VRAM Values
-Text=%VRAMUsed% <C=7E8A9B>/ <C=E0E0E0>%VRAM% <C=7E8A9B>(<C=E0E0E0>%VRAMPct%<C=7E8A9B>)
+Text=%VRAMUsed% <C=7E8A9B>/ <C=E0E0E0>%VRAM% <C=7E8A9B>(<C=E0E0E0>%VRAMPct%%<C=7E8A9B>)
 PositionX=-8
 PositionY=-11
 ExtentX=-20
@@ -631,7 +631,7 @@ TextColor=8C6C7A
 
 [Layer24]
 Name=RAM Values
-Text=%RAMUsed% <C=7E8A9B>/ <C=E0E0E0>%RAM% <C=7E8A9B>(<C=E0E0E0>%RAMPct%<C=7E8A9B>)
+Text=%RAMUsed% <C=7E8A9B>/ <C=E0E0E0>%RAM% <C=7E8A9B>(<C=E0E0E0>%RAMPct%%<C=7E8A9B>)
 PositionX=-8
 PositionY=-12
 ExtentX=-20
