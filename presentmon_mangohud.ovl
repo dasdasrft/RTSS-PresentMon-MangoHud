@@ -23,32 +23,32 @@ Name=FPSPresented
 Units=FPS
 Format=%.0f
 Formula=
-Provider=PresentMon
-ID=FrameratePresented
+Provider=HAL
+ID=Framerate
 
 [Source1]
 Name=FPSPresented
 Units=FPS
 Format=%.0f
 Formula=
-Provider=HAL
-ID=Framerate
+Provider=PresentMon
+ID=FrameratePresented
 
 [Source2]
 Name=FPSDisplayed
 Units=FPS
 Format=%.0f
 Formula=
-Provider=PresentMon
-ID=FramerateDisplayed
+Provider=HAL
+ID=Framerate
 
 [Source3]
 Name=FPSDisplayed
 Units=FPS
 Format=%.0f
 Formula=
-Provider=HAL
-ID=Framerate
+Provider=PresentMon
+ID=FramerateDisplayed
 
 [Source4]
 Name=msBetweenPresents
